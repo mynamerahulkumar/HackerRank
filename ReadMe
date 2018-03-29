@@ -1,0 +1,38 @@
+Algorithms are very important in computer Science. The best chosen algorithm makes sure computer will do the given task at best possible manner. In cases where efficiency matter a proper algorithm is really vital to be used. An algorithm is important in optimizing a computer program according to the available resources.  .
+
+
+Ultimately when anyone decide to solve a problem through better algorithms then searching for  the best combination of program speed and least amount of memory consumption is desired. 
+
+
+There are 7 Different types of algorithms those are used by computer programmers.
+
+Brute force
+
+Brute force algorithm emphasis on solving problems in the most straight forward manner. It implies to use basic techniques to solve problems. In short these are simplest algorithms to be used. The simplicity costs in speed as this algorithm is comparatively slow in generating results. The best way is to use it with problems those are having small input size.
+
+Divide and conquer
+
+The basic idea of this method is to make programs based on dividing the size of problems. In each loop cut the problem in parts with constant factor and then process further in the same fashion. This is a fast algorithm.
+
+Decrease and conquer
+
+This method is having the basic idea as above method but the slight difference is there. It decreases the size of problem in each iteration. In dive and conquer each iteration cut the problem with a constant factor.
+
+Dynamic programming
+
+If you are searching of one efficient fast algorithm then dynamic programming is here. In this algorithm all focus is made on speed of execution even it costs memory space. Simply saying in this method space for time is sacrificed. The execution speed drastically reduces in this algorithm. This method is particularly useful to solve problems that those have overlapping sub problems.
+
+Greedy algorithm
+
+Greedy algorithm is a step based algorithm. In a greedy algorithm we analyze the problem in each step. Then use the best locally possible optimum solution to this particular step .Then the process repeats to all steps. It will lead to a globally optimal solution.
+
+Transform and conquer
+
+This algorithm is based on using approaches we already know. The problem is transformed in to well familiar step based solutions. At last we accumulate the solution of each step at final step. Thus the name of this algorithm states self about the working. For example if we need to find the lcm of a number and we already know how to calculate GCD. This method says calculate LCM with the help of GCD as we know
+
+LCM ( a , b ) = (a * b) / GCD ( a , b )
+
+Backtracking algorithm
+
+In backtracking we generate a solution and test. If this solution is satisfying all conditions then and then only we go for further subsequent solutions else we will take a back gear simply saying backtrack and select a different path of finding solution. This process continues until we get a final solution.
+
